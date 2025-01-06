@@ -63,6 +63,7 @@ This protocol enables the creation of powerful third party tools, enlisted here 
  - [Profile Cleaner](https://bsky.jazco.dev/cleanup) - A tool to clean up old posts, likes, and reposts
  - [Skeet Discord Bot](https://github.com/malooski/skeet-discord-bot) - Posts your bluesky skeets to Discord
  - [skeetgen](https://codeberg.org/mary-ext/skeetgen) - Generate an easily viewable archive of your Bluesky posts
+ - [Skyblaze](https://skyblaze.app/) - Grow on Bluesky with ai-powered content generation, scheduling and engagement
  - [SkySweeper](https://skysweeper.p8.lu/) - Automatically delete old posts
 
 ## Profile
